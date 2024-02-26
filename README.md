@@ -56,4 +56,8 @@ Here are some ideas to get you started:
 
   📒 **Velog** - https://velog.io/@lsv6772/posts
 
+  👨‍💻 **Notion** - https://url.kr/i18fc6
+
+  
+
 </div>
