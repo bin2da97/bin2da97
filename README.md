@@ -49,5 +49,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin2da97&layout=compact)
-
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@lsv6772">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:oka1313@gmail.com">
+    <img
+      src="https://img.shields.io/badge/lsv6772@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
