@@ -51,9 +51,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-🐱 **Github**
-https://github.com/bin2da97
-
-📒 **Velog**
-https://velog.io/@lsv6772/posts
+📒<h3>Velog</h3>
+- https://velog.io/@lsv6772/posts
+📧<h3>Email</h3>
+- lsv6772@gmail.com
 </div>
