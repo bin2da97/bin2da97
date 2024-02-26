@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
 
+  📧 **Email** - lsv6772@gmail.com
+
   📒 **Velog** - https://velog.io/@lsv6772/posts
 
-  📧 **Email** - lsv6772@gmail.com
 </div>
