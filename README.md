@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
-[📒 **Velog**](https://velog.io/@lsv6772/posts)
+<div align="center">
+  [📒 **Velog**](https://velog.io/@lsv6772/posts)
 
-📧 **Email** - lsv6772@gmail.com
-
-
+  📧 **Email** - lsv6772@gmail.com
+</div>
