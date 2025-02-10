@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
 </div>
-<h3 align="center">🏃‍♂️ Physical Training & Sports 🏃‍♂️</h3>
+<h2 align="center">🏃‍♂️ Physical Training & Sports 🏃‍♂️</h2>
 <div align="center">
   
   ⚽ **스페인 5부 리그 축구 선수 출신**  
@@ -42,7 +42,7 @@
   ✏️ **NSCA CSCS (국제 공인 트레이너 자격증), 건강운동관리사 자격증 공부 중**
 </div>
 
-<h3 align="center">💻 IT Education & Certifications 💻</h3>
+<h2 align="center">💻 IT Education & Certifications 💻</h2>
 <div align="center">
   
   📜 **빅데이터를 활용한 풀스택 개발자 양성과정 수료**  
