@@ -1,26 +1,12 @@
-### Hi there 👋
-
-<!--
-**bin2da97/bin2da97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☺️ Hi I'm bin2da97
+## 💼 Physical Coach(soccer)
+---
 <!--타이틀 부분-->
 
 <!--내용 부분-->
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<h3 align="center">👨‍💻 Tech </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
@@ -30,8 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"/>&nbsp 
 </div>
 
 <div align="center">
@@ -49,16 +33,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
 </div>
+<h3 align="center">🏃‍♂️ Physical Training & Sports 🏃‍♂️</h3>
+<div align="center">
+  
+  ⚽ **스페인 5부 리그 축구 선수 출신**  
+  🎓 **스포츠 건강관리 전공**  
+  📖 **2급 생활체육지도사 (축구, 보디빌딩)**  
+  ✏️ **NSCA CSCS (국제 공인 트레이너 자격증), 건강운동관리사 자격증 공부 중**
+</div>
 
+<h3 align="center">💻 IT Education & Certifications 💻</h3>
+<div align="center">
+  
+  📜 **빅데이터를 활용한 풀스택 개발자 양성과정 수료**  
+  🛠️ **정보처리기사**  
+  🖥️ **컴퓨터활용능력 1급**
+  ✏️ **Adsp데이터분석준전문가 추후 취득 계획😅**
+</div>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-
-  📧 **Email** - lsv6772@gmail.com
-
-  📒 **Velog** - https://velog.io/@lsv6772/posts
-
-  👨‍💻 **Notion** - https://url.kr/i18fc6
-
   
-
+  📧 **Email** - lsv6772@gmail.com
 </div>
