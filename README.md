@@ -1,6 +1,6 @@
 ## ☺️ Hi I'm bin2da97
-💼 Physical Coach(soccer)
 ---
+💼 Physical Coach(soccer)
 <!--타이틀 부분-->
 
 <!--내용 부분-->
@@ -47,9 +47,10 @@
   
   📜 **빅데이터를 활용한 풀스택 개발자 양성과정 수료**  
   🛠️ **정보처리기사**  
-  🖥️ **컴퓨터활용능력 1급**
-  ✏️ **Adsp데이터분석준전문가 추후 취득 계획😅**
+  🖥️ **컴퓨터활용능력 1급** <br>
+  ✏️ **Adsp 데이터분석준전문가 추후 취득 계획 😅**
 </div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   
