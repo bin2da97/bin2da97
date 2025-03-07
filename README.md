@@ -37,7 +37,8 @@
 <div align="center">
   
   ⚽ **스페인 5부 리그 축구 선수 출신**  
-  🎓 **스포츠 건강관리 전공**  
+  🎓 **스포츠 건강관리 전공** 
+  💼 **Physical Coach(soccer)**
   📖 **2급 생활체육지도사 (축구, 보디빌딩)**  
 </div>
 
@@ -52,7 +53,7 @@
 <h2 align="center">✏️Studing✏️</h2>
 <div align="center">
   
-  ✏️ **Adsp 데이터분석준전문가**
+  ✏️ **Adsp 데이터분석준전문가**<br>
   ✏️ **NSCA CSCS (국제 공인 트레이너 자격증)**
 </div>
 
