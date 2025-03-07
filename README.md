@@ -37,7 +37,7 @@
   
   ⚽ **스페인 5부 리그 축구 선수 출신**  
   🎓 **스포츠 건강관리 전공** <br>
-  💼 **Physical Coach(soccer)**
+  💼 **Physical Coach(soccer)** <br>
   📖 **2급 생활체육지도사 (축구, 보디빌딩)**  
 </div>
 
