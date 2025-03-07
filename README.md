@@ -39,7 +39,6 @@
   ⚽ **스페인 5부 리그 축구 선수 출신**  
   🎓 **스포츠 건강관리 전공**  
   📖 **2급 생활체육지도사 (축구, 보디빌딩)**  
-  ✏️ **NSCA CSCS (국제 공인 트레이너 자격증), 건강운동관리사 자격증 공부 중**
 </div>
 
 <h2 align="center">💻 IT Education & Certifications 💻</h2>
@@ -48,7 +47,13 @@
   📜 **빅데이터를 활용한 풀스택 개발자 양성과정 수료**  
   🛠️ **정보처리기사**  
   🖥️ **컴퓨터활용능력 1급** <br>
-  ✏️ **Adsp 데이터분석준전문가 추후 취득 계획 😅**
+  
+</div>
+<h2 align="center">✏️Studing✏️</h2>
+<div align="center">
+  
+  ✏️ **Adsp 데이터분석준전문가**
+  ✏️ **NSCA CSCS (국제 공인 트레이너 자격증)**
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
