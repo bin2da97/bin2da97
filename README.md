@@ -1,6 +1,6 @@
-## ☺️ Hi I'm bin2da97
+## ☺️ Hi I'm bin2da97 
+💼ｗｏｒｋｉｎｇ Physical Coach(soccer)
 ---
-💼 Physical Coach(soccer)
 <!--타이틀 부분-->
 
 <!--내용 부분-->
