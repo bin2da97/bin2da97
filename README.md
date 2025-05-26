@@ -52,8 +52,8 @@
 <h2 align="center">✏️Studing✏️</h2>
 <div align="center">
   
-  ✏️ **Adsp 데이터 분석 준전문가**<br>
-  ✏️ **NSCA CSCS (국제 공인 트레이너 자격증)**
+  ✏️ **Adsp 데이터 분석 준전문가** 가체점 합격!<br>
+  
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
