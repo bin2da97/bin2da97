@@ -1,4 +1,4 @@
-/*## 😊 Hi, I'm SunBin!  
+<!-- ## 😊 Hi, I'm SunBin!  
 🎯 데이터 기반으로 문제를 진단하고, 인사이트를 도출하는 데이터 분석가를 꿈꿉니다.
 
 ---
@@ -64,7 +64,8 @@
 <p align="center">
   📧 <a href="mailto:lsv6772@gmail.com">lsv6772@gmail.com</a>
 </p>
-*/
+
+-->
 
 😊 Hi, I'm SunBin!
 🚀 신뢰할 수 있는 데이터 인프라를 구축하고, 대규모 데이터를 효율적으로 처리하는 데이터 엔지니어를 꿈꿉니다.
