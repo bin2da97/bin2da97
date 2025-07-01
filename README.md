@@ -4,7 +4,7 @@
 
 ---
 
-### 🛤️ Career Shift: From Sports to Cloud Engineering
+### 🛤️ Career Shift: From Sports to Cloud/DevOps Engineering
 
 - ⚽ 전직 축구 선수, 피지컬 코치   
 - 💻 개발자 양성과정 수료 → 인프라 직무로 전향 중  
