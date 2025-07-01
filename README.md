@@ -1,66 +1,74 @@
-## 😊 Hi, I'm SunBin!  
-<!--🎯 데이터 기반으로 문제를 진단하고, 인사이트를 도출하는 데이터 분석가를 꿈꿉니다.-->
+## 😊 Hi, I'm SunBin!
+
+끊임없이 도전하며 성장 중인 예비 인프라 엔지니어입니다.  
 
 ---
 
-<h3 align="center">👨‍💻 Tech Stack</h3>
-<div align="center">
+### 🛤️ Career Shift: From Sports to Cloud Engineering
 
-🧠 <strong>Data Analysis</strong><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"><br><br>
+- ⚽ 전직 축구 선수, 피지컬 코치   
+- 💻 개발자 양성과정 수료 → 인프라 직무로 전향 중  
+- ☁️ 목표: 클라우드 / 데브옵스 엔지니어
 
-🧰 <strong>Web / Backend</strong><br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br><br>
+<details>
+<summary>📖 My Story</summary>
 
-🗄 <strong>Database</strong><br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br><br>
+- 체육대학(스포츠 건강관리 전공) 재학 중 스페인에서 축구 선수 생활   
+- 귀국 후 졸업 및 경기분석 수업을 시작으로 IT 분야에 관심  
+- 빅데이터를 활용한 풀스택 개발자 양성과정 수료  
+- 정보처리기사 취득 → 실력 부족으로 취업 난항  
+- 스포츠 IT 기반 트레이닝 센터에서 피지컬 코치로 근무  
+- 현재 클라우드 / 데브옵스 엔지니어를 목표로 IT 취업 재도전 중  
+- 인프라 기반 강화를 위한 네트워크 및 보안 분야 병행 학습 중
 
-🎨 <strong>Frontend</strong><br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-</div>
+</details>
 
 ---
 
-<h2 align="center">🏃‍♂️ Physical Training & Sports</h2>
-<ul align="center">
-  <li>⚽ 스페인 5부 리그 축구 선수 출신</li>
-  <li>🎓 스포츠 건강관리 전공</li>
-  <li>💼 Physical Coach (Soccer)</li>
-  <li>📖 2급 생활체육지도사 (축구, 보디빌딩)</li>
-</ul>
+### 🎯 Why Infra?
+
+> "운동도 결국 좋은 **기반(인프라)** 위에서 퍼포먼스를 낸다"  
+> 코치로서 훈련 강도 자동화 시스템을 직접 만들며, **IT 인프라에 대한 흥미**가 커졌습니다.  
+> 현재는 시스템의 기반을 설계하고, 운영하며, 보안까지 고려할 수 있는  
+> **클라우드 / 데브옵스 엔지니어**가 되는 것을 목표로 공부하고 있습니다.
 
 ---
 
-<h2 align="center">💻 IT Education & Certifications</h2>
-<ul align="center">
-  <li>📜 빅데이터를 활용한 풀스택 개발자 양성과정 수료</li>
-  <li>🛠️ 정보처리기사</li>
-  <li>🖥️ 컴퓨터활용능력 1급</li>
-</ul>
+### 🧑‍💻 Currently Studying
+
+| 분야 | 강의명 | 출처 | 진행률 |
+|------|--------|------|--------|
+| 🖧 네트워크 | 네트워크 기초(개정판) | 유튜브 [따라하면서 배우는 IT] | `5 / 35` (14%) [█---------] |
+| ☁️ AWS | AWS 기초강좌v3 | 유튜브 [AWS 강의실] | `10 / 29` (34%) [████------] |
+| 🐧 리눅스 | [Ubuntu 24.04 LTS] 이것이 우분투 리눅스다(3판) | 유튜브 [한빛미디어] | `3 / 78` (4%) [----------] |
+
+📌 8월, Cisco DevNet 교육 과정 수강 예정
+🎯 CCNA 및 AWS 자격증 취득 목표
+🔧 여건이 된다면 리눅스 & 네트워크 자격도 도전 예정
 
 ---
 
-<h2 align="center">✏️ Currently Studying</h2>
-<ul align="center">
-  <li>📊 ADsP (데이터 분석 준전문가) – 가채점 합격!</li>
-  <li>📚 SQL과 통계 기반 분석 역량 향상 중</li>
-  <li>📈 실전 데이터 분석 포트폴리오 개발 중</li>
-</ul>
+### 🧰 Tech & Tools
+
+- **Languages**: Python, Java, JavaScript  
+- **Frameworks**: Spring, React, jQuery  
+- **Data**: MySQL, Oracle, Pandas, Numpy, Matplotlib 등  
+- **Infra (학습 중)**: Linux(Ubuntu), AWS, 네트워크  
+- **Tools**: Notion API, Google Apps Script, Excel, VSCode
 
 ---
 
-<h3 align="center">📫 Contact</h3>
-<p align="center">
-  📧 <a href="mailto:lsv6772@gmail.com">lsv6772@gmail.com</a>
-</p>
+### 🧾 Certifications
+
+- 📜 정보처리기사  
+- 📊 ADsP  
+- 🧮 컴퓨터활용능력 1급  
+
+---
+
+### 📫 Contact
+
+📧 lsv6772@gmail.com  
+📌 [Velog] (https://velog.io/@lsv6772/posts)
+
+---
