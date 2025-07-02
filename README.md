@@ -37,9 +37,10 @@
 
 | 분야 | 강의명 | 출처 | 진행률 |
 |------|--------|------|--------|
-| 🖧 네트워크 | 혼자 공부하는 네트워크 | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM) | `1 / 47` (2%) [----------] |
+| 🖧 네트워크 | 혼자 공부하는 네트워크 | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM) | `3 / 47` (6%) [----------] |
 | ☁️ AWS | AWS 기초강좌v3 | [AWS 강의실](https://www.youtube.com/playlist?list=PLfth0bK2MgIYuFahPhXTpTomkwVx5Fl-v) | `10 / 29` (34%) [■■■-------] |
 | 🐧 리눅스 | [Ubuntu 24.04 LTS] 이것이 우분투 리눅스다(3판) | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HAcyW6bma7trGJfiTSDA44) | `3 / 78` (4%) [----------] |
+
 
 
 - 📌 8월, Cisco DevNet 교육 과정 수강 예정
