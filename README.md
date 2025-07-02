@@ -37,12 +37,13 @@
 
 | 분야 | 강의명 | 출처 | 진행률 |
 |------|--------|------|--------|
-| 🖧 네트워크 | 네트워크 기초(개정판) | [따라하면서 배우는 IT](https://www.youtube.com/playlist?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi) | `5 / 35` (14%) [█---------] |
-| ☁️ AWS | AWS 기초강좌v3 | [AWS 강의실](https://www.youtube.com/playlist?list=PLfth0bK2MgIYuFahPhXTpTomkwVx5Fl-v) | `10 / 29` (34%) [████------] |
+| 🖧 네트워크 | 혼자 공부하는 네트워크 | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM) | `1 / 47` (2%) [----------] |
+| ☁️ AWS | AWS 기초강좌v3 | [AWS 강의실](https://www.youtube.com/playlist?list=PLfth0bK2MgIYuFahPhXTpTomkwVx5Fl-v) | `10 / 29` (34%) [■■■-------] |
 | 🐧 리눅스 | [Ubuntu 24.04 LTS] 이것이 우분투 리눅스다(3판) | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HAcyW6bma7trGJfiTSDA44) | `3 / 78` (4%) [----------] |
 
+
 - 📌 8월, Cisco DevNet 교육 과정 수강 예정
-- 🎯 CCNA 및 AWS 자격증 취득 목표
+- 🎯 우수 프로젝트 선정 , CCNA 및 AWS 자격증 취득 병행 목표
 - ➕ 여건이 된다면 리눅스 & 네트워크 자격도 도전 예정
 
 ---
