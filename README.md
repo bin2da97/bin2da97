@@ -31,9 +31,9 @@
 
 | 분야 | 강의명 | 출처 | 진행률 |
 |------|--------|------|--------|
-| 🖧 네트워크 | 혼자 공부하는 네트워크 | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM) | '17 / 45` (38%) [■■■-------] |
-| ☁️ AWS | AWS 기초강좌v3 | [AWS 강의실](https://www.youtube.com/playlist?list=PLfth0bK2MgIYuFahPhXTpTomkwVx5Fl-v) | `11 / 29` (38%) [■■■-------] |
-| 🐧 리눅스 | [Ubuntu 24.04 LTS] 이것이 우분투 리눅스다(3판) | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HAcyW6bma7trGJfiTSDA44) | `7 / 78` (9%) [----------] |
+| 🖧 네트워크 | 혼자 공부하는 네트워크 | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HfOCgvlfHIDPPo3TE-2iQM) | '20 / 44` (45%) [■■■■------] |
+| ☁️ AWS | AWS 기초강좌v3 | [AWS 강의실](https://www.youtube.com/playlist?list=PLfth0bK2MgIYuFahPhXTpTomkwVx5Fl-v) | `12 / 29` (41%) [■■■■------] |
+| 🐧 리눅스 | [Ubuntu 24.04 LTS] 이것이 우분투 리눅스다(3판) | [한빛미디어](https://www.youtube.com/playlist?list=PLVsNizTWUw7HAcyW6bma7trGJfiTSDA44) | `8 / 78` (10%) [■---------] |
 
 
 
